@@ -1,4 +1,4 @@
-# [excel-dna.github.io](https://excel-dna.github.io) ⚠
+# [excel-dna.github.io](https://excel-dna.github.io) ⚠ ![GitHub deployments](https://img.shields.io/github/deployments/Excel-DNA/Excel-DNA.github.io/github-pages?label=deploy%20status)
 
 This is a work-in-progress of moving the Excel-DNA website ([https://excel-dna.net](https://excel-dna.net)) hosted on WordPress, to GitHub pages.
 
