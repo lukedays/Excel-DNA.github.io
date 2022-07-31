@@ -26,7 +26,7 @@ github_username:  excel-dna
 
 # Build settings
 permalink: /:year/:month/:day/:title/
-theme: jekyll-theme-cayman
+theme: minima
 markdown:    kramdown
 highlighter: rouge
 kramdown:
