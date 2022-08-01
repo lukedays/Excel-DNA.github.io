@@ -1,9 +1,10 @@
 ---
+layout: default
 title: Getting Started
 nav_order: 1
 ---
 
-![Logo]({{ site.baseurl }}\images\logo_transparent.png){: width="200" }
+![Logo](images\logo_transparent.png){: width="200" }
 
 - [Introduction](#introduction)
 - [Quickstart](#quickstart)
@@ -80,7 +81,7 @@ The library is useful for:
     ```
 
 5. Then press F5 (Start Debugging) to compile, run Excel and load the add-in, and enter your function into a cell: =HelloDna("your name")
-6. For more details about the installation/build process, check [Excel-DNA installation](/basic-features/excel-dna-installation). 
+6. For more details about the installation/build process, check [Excel-DNA installation](basic-features/excel-dna-installation). 
 
 ## Distribution
 

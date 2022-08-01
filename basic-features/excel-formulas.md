@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Excel Formulas
 nav_order: 3
 parent: Basic Features

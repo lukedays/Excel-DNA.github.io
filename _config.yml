@@ -27,15 +27,13 @@ github_username:  excel-dna
 # Build settings
 logo: "/images/logo_transparent.png"
 permalink: /:categories/:year/:month/:day/:title
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-plugins:
-  - jekyll-relative-links
 
 # Just-the-docs theme configuration
 aux_links:

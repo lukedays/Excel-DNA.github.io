@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Testimonials
 nav_order: 5
 ---
@@ -35,13 +36,13 @@ nav_order: 5
 >
 >Thank you to Govert and to everyone involved in Excel-DNA – well done." - Simon Miles, [Solution 7][solution-7]
 
-[jane-street-logo]: {{ site.baseurl }}/images/jane-street-logo.png "Jane Street"
+[jane-street-logo]: images/jane-street-logo.png "Jane Street"
 [jane-street]: http://www.janestcapital.com
-[eq-finance-logo]: {{ site.baseurl }}/images/eq-finance-logo.png "EQ Finance"
+[eq-finance-logo]: images/eq-finance-logo.png "EQ Finance"
 [eq-finance]: http://eqfltd.com
 [calcbench]: http://www.calcbench.com
-[calcbench-logo]: {{ site.baseurl }}/images/calcbench-logo.png "Calcbench"
-[xbrlanalyst-logo]: {{ site.baseurl }}/images/xbrl-analyst-logo.png "Findynamics"
+[calcbench-logo]: images/calcbench-logo.png "Calcbench"
+[xbrlanalyst-logo]: images/xbrl-analyst-logo.png "Findynamics"
 [findynamics]: http://findynamics.com
-[solution7-logo]: {{ site.baseurl }}/images/solution7-logo.png "Solution 7"
+[solution7-logo]: images/solution7-logo.png "Solution 7"
 [solution-7]: http://www.solution7.co.uk

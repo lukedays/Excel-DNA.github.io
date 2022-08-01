@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Excel-DNA Installation
 nav_order: 2
 parent: Basic Features

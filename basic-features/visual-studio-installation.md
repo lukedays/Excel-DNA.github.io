@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Visual Studio Installation
 nav_order: 1
 parent: Basic Features
@@ -12,7 +13,8 @@ parent: Basic Features
 
 Notice the different 'Visual Studio' products and editions. We are interested in the 'Visual Studio' product, and can then select one of the three editions to install.
 
-![Visual Studio products]({{ site.baseurl }}\images\visual-studio-versions.png)
+![Visual Studio products](images/visual-studio-versions.png)
+
 
 Any of the three editions can be used for Excel-DNA developement.
 The Community and Professional editions have the same functionality, but differ in the cost and license restrictions. The Community edition is free but have limitation on use in Enterprise environments.
@@ -22,8 +24,6 @@ The Community and Professional editions have the same functionality, but differ 
 
 During Visual Studio installation the main selection concerns the workloads and components to be installed.
 
-![Visual Studio Installer - Workloads]({{ site.baseurl }}\images\vs-installer-workloads.png)
+![Visual Studio Installer - Workloads](images/vs-installer-workloads.png)
 
 For Excel-DNA development we require only the *.NET Desktop Development* workload to be installed. All the optional features may be deselected. Also note that the *Office/Sharepoint tools* workload in not required for doing Excel-DNA development.
-
-
