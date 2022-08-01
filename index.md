@@ -24,7 +24,7 @@ The library is useful for:
 
 ## Quickstart
 
-1. Install **Visual Studio** - not Visual Studio Code, which has a limited support for .NET. [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) is free but has restriction for Enterprise users. See [Visual Studio installation](/basic-features/visual-studio-installation) for more help.
+1. Install **Visual Studio** - not Visual Studio Code, which has a limited support for .NET. [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) is free but has restriction for Enterprise users. See [Visual Studio installation](basic-features/visual-studio-installation) for more help.
 
 2. Create a new **Class Library (.NET Framework)** project in C#, F#, or Visual Basic.
    - If you're using a Visual Studio version compatible with .NET 6, you can create a .NET (not .NET framework) Class Library. This has experimental support on Excel-DNA version 1.6.0-preview.
