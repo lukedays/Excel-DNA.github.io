@@ -2,6 +2,9 @@
 title: Getting Started
 nav_order: 1
 ---
+
+![Logo]({{ site.baseurl }}\images\logo_transparent.png){: width="200" }
+
 - [Introduction](#introduction)
 - [Quickstart](#quickstart)
 - [Distribution](#distribution)
