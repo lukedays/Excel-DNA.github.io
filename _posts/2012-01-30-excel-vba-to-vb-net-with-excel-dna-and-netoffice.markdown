@@ -2,7 +2,6 @@
 layout: post
 title: "Excel VBA to VB.NET with Excel-DNA and NetOffice"
 date: 2012-01-30 13:29:00 -0000
-permalink: /2012/01/30/excel-vba-to-vb-net-with-excel-dna-and-netoffice/
 categories: samples
 ---
 Excel-DNA is a great library to help ease the path from Excel VBA to VB.NET. Last year another part of the puzzle fell in place: I discovered [NetOffice][netoffice], a version-independent set of Office interop assemblies put together by Sebastian Lange. By referencing the NetOffice assemblies instead of the official Primary Interop Assemblies (PIA) for Office, an Excel-DNA add-in can target various Excel versions with a single add-in, and also ease distribution of the required interop assemblies, even packing them into the `.xll` add-in itself.

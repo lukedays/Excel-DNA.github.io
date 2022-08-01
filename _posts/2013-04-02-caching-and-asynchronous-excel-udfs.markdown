@@ -2,7 +2,6 @@
 layout: post
 title: "Caching and Asynchronous Excel UDFs"
 date: 2013-04-02 23:32:00 -0000
-permalink: /2013/04/02/caching-and-asynchronous-excel-udfs/
 categories: samples, async, csharp, cache, excel, udf
 ---
 This sample shows how the result of an Excel-DNA async UDF call can be cached using the .NET 4 MemoryCache class.

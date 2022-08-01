@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA NuGet Package Updated"
 date: 2012-12-20 22:30:00 -0000
-permalink: /2012/12/20/excel-dna-nuget-package-updated/
 categories: uncategorized, exceldna, nuget
 ---
 I've updated and improved the [Excel-DNA NuGet package][nuget-package]. ([NuGet][nuget] is the Visual Studio package manager that makes it easy to download and install external libraries into your projects.)

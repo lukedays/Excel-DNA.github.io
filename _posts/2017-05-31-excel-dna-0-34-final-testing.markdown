@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA version 0.34"
 date: 2017-05-31 01:12:00 -0000
-permalink: /2017/05/31/excel-dna-0-34-final-testing/
 categories: uncategorized
 ---
 Excel-DNA version 0.34 has been released and is now available.

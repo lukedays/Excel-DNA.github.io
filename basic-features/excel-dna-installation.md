@@ -1,21 +1,8 @@
 ---
-layout: page
-title: "Reference"
-permalink: /reference/
+title: Excel-DNA Installation
+nav_order: 2
+parent: Basic Features
 ---
-- [Excel-DNA installation](#excel-dna-installation)
-  - [Configuration file (.dna)](#configuration-file-dna)
-  - [Installation](#installation)
-  - [Troubleshooting](#troubleshooting)
-  - [More about .dna files](#more-about-dna-files)
-- [Coding reference](#coding-reference)
-  - [Excel Functions](#excel-functions)
-- [Visual Studio installation](#visual-studio-installation)
-  - [Versions](#versions)
-  - [Workload during installation](#workload-during-installation)
-
-## Excel-DNA installation
-
 ### Configuration file (.dna)
 
 Excel-DNA is configured through a .dna file, which is basically a XML file that contains settings such as:
@@ -105,35 +92,3 @@ It is possible to include functions directly in the .dna file. These functions c
 ```
 
 Excel-DNA also allows the XML for ribbon UI extensions to be specified in the .dna file.
-
-## Coding reference
-
-### Excel Functions
-
-By default all public static in C#/Public Shared in VB.NET functions will be registered with Excel.
-
-## Visual Studio installation
-
-[Visual Studio](https://visualstudio.microsoft.com) is the integrated development environment (IDE) used to develop .NET application and libraries, including Excel-DNA add-ins developed with .NET. Govert has made a step-by-step video guide that you can find on YouTube.
-
-[![Excel-DNA - Install Visual Studio](http://img.youtube.com/vi/M-9jsOXVw_o/0.jpg)](http://www.youtube.com/watch?v=M-9jsOXVw_o "Excel-DNA - Install Visual Studio")
-
-### Versions
-
-Notice the different 'Visual Studio' products and editions. We are interested in the 'Visual Studio' product, and can then select one of the three editions to install.
-
-![Visual Studio products](..\images\visual-studio-versions.png)
-
-Any of the three editions can be used for Excel-DNA developement.
-The Community and Professional editions have the same functionality, but differ in the cost and license restrictions. The Community edition is free but have limitation on use in Enterprise environments.
-[Details about Visual Studio editions](https://visualstudio.microsoft.com/vs/compare)
-
-### Workload during installation
-
-During Visual Studio installation the main selection concerns the workloads and components to be installed.
-
-![Visual Studio Installer - Workloads](..\images\vs-installer-workloads.png)
-
-For Excel-DNA development we require only the *.NET Desktop Development* workload to be installed. All the optional features may be deselected. Also note that the *Office/Sharepoint tools* workload in not required for doing Excel-DNA development.
-
-

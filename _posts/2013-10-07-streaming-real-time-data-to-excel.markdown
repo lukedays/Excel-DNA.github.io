@@ -2,7 +2,6 @@
 layout: post
 title: "Streaming real-time data to Excel"
 date: 2013-10-07 23:13:00 -0000
-permalink: /2013/10/07/streaming-real-time-data-to-excel/
 categories: uncategorized, examples, excel, rtd, rx
 ---
 Gert-Jan van der Kamp has posted a very nice end-to-end example on [CodeProject][codeproject-streaming], showing how to create a WCF service and Excel-DNA add-in to stream real-time data into Excel.

@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA 0.33 Release Candidate and License Change"
 date: 2015-08-03 00:50:00 -0000
-permalink: /2015/08/03/excel-dna-0-33-release-candidate-and-license-change/
 categories: uncategorized
 ---
 ## Version 0.33 Release Candidate

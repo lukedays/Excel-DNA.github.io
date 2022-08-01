@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA Version 0.30 Released"
 date: 2012-12-13 22:30:00 -0000
-permalink: /2012/12/13/excel-dna-version-0-30-released/
 categories: uncategorized, releases
 ---
 Excel-DNA Version 0.30 has now been released on CodePlex. The download

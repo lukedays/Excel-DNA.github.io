@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA version 0.29 - RC available"
 date: 2011-05-16 13:09:00 -0000
-permalink: /2011/05/16/excel-dna-version-0-29-rc-available/
 categories: uncategorized
 ---
 I have posted a release candidate of Excel-DNA version 0.29 to the CodePlex site. The download is available at [http://exceldna.codeplex.com/releases/view/66405][release-0-29]. I will wait a week or two for some confirmation that this version works correctly before setting this release to "recommended" status and updating the NuGet package. Any results from your testing with this version would be very helpful.

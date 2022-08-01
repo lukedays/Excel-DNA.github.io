@@ -1,5 +1,6 @@
 ---
-layout: home
+title: Getting Started
+nav_order: 1
 ---
 - [Introduction](#introduction)
 - [Quickstart](#quickstart)
@@ -20,7 +21,7 @@ The library is useful for:
 
 ## Quickstart
 
-1. Install **Visual Studio** - not Visual Studio Code, which has a limited support for .NET. [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) is free but has restriction for Enterprise users. See [Visual Studio installation](/reference/#visual-studio-installation) for more help.
+1. Install **Visual Studio** - not Visual Studio Code, which has a limited support for .NET. [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) is free but has restriction for Enterprise users. See [Visual Studio installation](/basic-features/visual-studio-installation) for more help.
 
 2. Create a new **Class Library (.NET Framework)** project in C#, F#, or Visual Basic.
    - If you're using a Visual Studio version compatible with .NET 6, you can create a .NET (not .NET framework) Class Library. This has experimental support on Excel-DNA version 1.6.0-preview.
@@ -76,7 +77,7 @@ The library is useful for:
     ```
 
 5. Then press F5 (Start Debugging) to compile, run Excel and load the add-in, and enter your function into a cell: =HelloDna("your name")
-6. For more details about the installation/build process, check [Excel-DNA installation](/reference/#excel-dna-installation). 
+6. For more details about the installation/build process, check [Excel-DNA installation](/basic-features/excel-dna-installation). 
 
 ## Distribution
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Resizing Excel UDF result arrays"
 date: 2011-01-30 18:27:00 -0000
-permalink: /2011/01/30/resizing-excel-udf-result-arrays/
 categories: samples, .net, async, excel, exceldna, xll
 ---
 **Update (21 June 2017): The most up-to-date version of the ArrayResizer utility can be found here**: [https://github.com/Excel-DNA/ExcelDna/blob/master/Distribution/Samples/ArrayResizer.dna][array-resizer]

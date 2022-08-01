@@ -2,7 +2,6 @@
 layout: post
 title: "Getting started with F# and Excel-DNA in finance"
 date: 2013-11-14 00:20:00 -0000
-permalink: /2013/11/14/getting-started-with-f-and-excel-dna-in-finance/
 categories: uncategorized, examples, excel, rtd, rx
 ---
 [Bram Jochems][bramjochems] has written a friendly ["Getting Started" post][getting-started], discussing how to use F# with Excel-DNA in a finance context. His add-in with various F# / Excel-DNA helper utilities, and a bunch of quantitative finance-related UDFs, including option pricing function and volatility interpolation, has been published as a [project on GitHub][myexcellib].

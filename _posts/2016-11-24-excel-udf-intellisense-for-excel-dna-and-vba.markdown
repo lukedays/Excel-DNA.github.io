@@ -2,7 +2,6 @@
 layout: post
 title: "Excel UDF IntelliSense for Excel-DNA and VBA"
 date: 2016-11-24 11:44:00 -0000
-permalink: /2016/11/24/excel-udf-intellisense-for-excel-dna-and-vba/
 categories: uncategorized
 ---
 I'm happy to announce the first official release of the IntelliSense extension!

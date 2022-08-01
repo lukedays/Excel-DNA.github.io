@@ -25,8 +25,9 @@ url: "https://lukedays.github.io/Excel-DNA.github.io/" # the base hostname & pro
 github_username:  excel-dna
 
 # Build settings
-permalink: /:year/:month/:day/:title/
-theme: minima
+logo: "/images/logo_transparent.png"
+permalink: /:categories/:year/:month/:day/:title
+theme: just-the-docs
 markdown:    kramdown
 highlighter: rouge
 kramdown:
@@ -35,6 +36,13 @@ kramdown:
   syntax_highlighter: rouge
 plugins:
   - jekyll-feed
+
+# Just-the-docs theme configuration
+aux_links:
+  "GitHub":
+    - "https://github.com/Excel-DNA/ExcelDna"
+  "Google Groups":
+    - "http://groups.google.com/group/exceldna"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

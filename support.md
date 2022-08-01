@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "Support"
-permalink: /support/
+title: Support
+nav_order: 3
 ---
 ## Getting help
 

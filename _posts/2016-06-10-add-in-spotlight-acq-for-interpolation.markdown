@@ -2,7 +2,6 @@
 layout: post
 title: "Add-in spotlight: ACQ for interpolation"
 date: 2016-06-10 21:23:00 -0000
-permalink: /2016/06/10/add-in-spotlight-acq-for-interpolation/
 categories: uncategorized
 ---
 This is the first in an occasional series of posts about interesting Excel-DNA based add-ins.

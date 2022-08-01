@@ -2,7 +2,6 @@
 layout: post
 title: "Financial Analytics Suite (FinAnSu) - made with Excel-DNA"
 date: 2011-04-28 22:51:00 -0000
-permalink: /2011/04/28/financial-analytics-suite-finansu-made-with-excel-dna/
 categories: uncategorized
 ---
 I recently noticed a very nice add-in developed by [Bryan McKelvey][bryan-mckelvey] called [FinAnSu][finansu]. The whole add-in is generously available under the MIT open source license, and is a fantastic example of what can be built with Excel-DNA.

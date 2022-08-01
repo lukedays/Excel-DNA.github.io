@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA 0.32 - Breaking changes to integer and boolean parameter handling"
 date: 2014-05-03 07:08:00 -0000
-permalink: /2014/05/03/excel-dna-0-32-breaking-changes-to-integer-and-boolean-parameter-handling/
 categories: uncategorized, 0.32, conversions
 ---
 Excel-DNA version 0.32 introduces some changes in the parameter conversions applied to integer and boolean parameters. These changes improve compatibility with VBA, and make it easier to provide a consistent implementation when the conversion needs to be explicitly implemented, as for some generated methods.

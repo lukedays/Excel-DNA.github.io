@@ -2,7 +2,6 @@
 layout: post
 title: "Offloading UDF computations to a Windows HPC cluster from Excel 2010"
 date: 2010-12-09 21:02:00 -0000
-permalink: /2010/12/09/cluster-udf-support/
 categories: features, .net, excel, exceldna, hpc, xll
 ---
 Excel 2010 introduced support for offloading UDF computations to a compute cluster. The Excel blog talks about it [http://blogs.msdn.com/b/excel/archive/2010/02/12/offloading-udf-s-to-a-windows-hpc-cluster.aspx][hpc-cluster], and there are some nice pictures on this TechNet article: [http://technet.microsoft.com/en-us/library/ff877825(WS.10).aspx][hpc-services].

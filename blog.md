@@ -1,5 +1,5 @@
 ---
 layout: blog
 title: Blog
-permalink: /blog/
+nav_order: 4
 ---

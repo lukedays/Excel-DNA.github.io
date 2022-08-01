@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA version 0.33.8-rc2 available"
 date: 2015-09-03 17:25:39 -0000
-permalink: /2015/09/03/excel-dna-version-0-33-8-rc2-available/
 categories: uncategorized
 ---
 I've made an updated release candidate available - this is version 0.33.8-RC2.

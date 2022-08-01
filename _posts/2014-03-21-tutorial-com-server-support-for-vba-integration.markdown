@@ -2,7 +2,6 @@
 layout: post
 title: "Tutorial: COM server support for VBA integration"
 date: 2014-03-03 23:16:00 -0000
-permalink: /2014/03/21/tutorial-com-server-support-for-vba-integration/
 categories: uncategorized, .net, com, excel, excel-vba, exceldna, vba, xll
 ---
 Functions and macros created in an Excel-DNA add-in can be called directly from Excel VBA by using `Application.Run(...)`. However, .NET also supports creating rich object models that are exported as COM libraries, which can be Tools->Referenced in VBA. Excel-DNA has some advanced support to host COM-exported objects from Excel-DNA add-ins, giving some advantages over the regular .NET "Register for COM interop" hosting approach:

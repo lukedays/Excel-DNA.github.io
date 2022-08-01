@@ -2,7 +2,6 @@
 layout: post
 title: "Excel-DNA 0.32 Released"
 date: 2014-05-04 15:46:00 -0000
-permalink: /2014/05/04/excel-dna-0-32-released/
 categories: release
 ---
 I've posted a final release of Excel-DNA version 0.32 to CodePlex ([https://exceldna.codeplex.com/releases/view/119190][exceldna-v0-32]) and the NuGet package repository ([https://www.nuget.org/packages/Excel-DNA][exceldna-nuget]).

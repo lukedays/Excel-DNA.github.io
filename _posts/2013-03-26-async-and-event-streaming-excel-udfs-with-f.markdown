@@ -2,7 +2,6 @@
 layout: post
 title: "Async and event-streaming Excel UDFs with F#"
 date: 2013-03-26 08:18:00 -0000
-permalink: /2013/03/26/async-and-event-streaming-excel-udfs-with-f/
 categories: features, samples, async, excel, exceldna, fsharp
 ---
 There have been a some recent posts mentioning the [asynchronous][async-python] and [reactive][reactive] programming features in F#. Since Excel-DNA 0.30 added support for creating async and `IObservable`-based real-time data functions, I'd like to show how these F# features can be nicely exposed to Excel via Excel-DNA.
