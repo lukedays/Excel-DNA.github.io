@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   With Excel-DNA you can make native (.xll) add-ins for Excel using C#, Visual Basic.NET or F#,
   providing high-performance user-defined functions (UDFs), custom ribbon interfaces and more.
   Your entire add-in can be packed into a single .xll file requiring no installation or registration.
-baseurl: "/Excel-DNA.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  excel-dna
 
@@ -28,14 +28,14 @@ github_username:  excel-dna
 logo: "/images/logo_transparent.png"
 permalink: /:categories/:year/:month/:day/:title
 remote_theme: just-the-docs/just-the-docs
-markdown:    kramdown
+markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
 plugins:
-  - jekyll-feed
+  - jekyll-relative-links
 
 # Just-the-docs theme configuration
 aux_links:
