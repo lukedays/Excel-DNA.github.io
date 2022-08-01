@@ -27,7 +27,7 @@ github_username:  excel-dna
 # Build settings
 logo: "/images/logo_transparent.png"
 permalink: /:categories/:year/:month/:day/:title
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 markdown:    kramdown
 highlighter: rouge
 kramdown:
